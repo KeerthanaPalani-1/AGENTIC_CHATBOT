@@ -24,6 +24,9 @@ Streamlit chat UI for easy interaction
 Document Content
 internal company policies and procedures.
 
+Project Link
+https://drive.google.com/drive/folders/1Hz9o1TNu2O77yiu7y-A1PpRXn03mymC8?usp=drive_link
+
 How to Run
 # Create and activate virtual environment
 python -m venv venv
